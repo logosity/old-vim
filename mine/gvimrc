@@ -1,0 +1,5 @@
+set filetype=vim tabstop=2 softtabstop=2 expandtab
+set shiftwidth=2 shiftround textwidth=0 autoindent
+colorscheme desert
+
+source ~/.gvimrc.local

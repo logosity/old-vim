@@ -1,0 +1,6 @@
+set gfn=inconsolata\ 20
+set lines=40
+set columns=999
+winpos 1600 25
+nmap <silent> <leader>sg :so $MYGVIMRC<CR>
+

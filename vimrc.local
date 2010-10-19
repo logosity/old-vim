@@ -1,0 +1,13 @@
+set autoread
+set autochdir
+set hidden
+
+colorscheme vividchalk
+
+source ~/vim_setups/plugin.local/toggle_words.vim
+source ~/vim_setups/plugin.local/bclose.vim
+source ~/vim_setups/plugin.local/scratch.vim
+
+map <leader>a :ToggleWord<CR>
+map <C-t> :wa<CR>:!rake test:ut<CR>
+let g:NERDTreeWinPos='right'
