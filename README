@@ -1,0 +1,5 @@
+This is my vim config. It's meant to allow you to use another vim config and then customize it (as well as switch between them easily). To use, create a directory under the root for the profile you wish to use (e.g. I use Ben Rady's profile so I have one in the repo already) then use map to map it to a locally cloned version of that profile. Then use the vim_config.sh to select it. 
+
+Use the *.local files and directories to add things you want in all of them. The "mine" directory contains things that I use when I don't want to use anyone else's profile.
+
+I hope you find it useful, no warranties, etc.
