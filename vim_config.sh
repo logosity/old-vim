@@ -7,8 +7,6 @@ rm -f ~/.vimrc
 rm -f ~/.vimrc.local
 
 rm -f ~/vim/vim_dir
-rm -f ~/vim/vimrc
-rm -f ~/vim/gvimrc
 
 ln -s ~/vim/$1 vim_dir
 
